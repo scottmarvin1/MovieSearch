@@ -1,7 +1,7 @@
 ##
 # playtrivia.py
 # PlayTrivia class. Manages a round of trivia
-# name: Gregory Marvin & Ryan Oliveira
+# name: Gregory Marvin
 ##
 
 import tkinter as tk
