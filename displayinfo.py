@@ -1,7 +1,7 @@
 ##
 # displayinfo.py
 # DisplayInfo class. Pop up window with radio buttons to select an option
-# name: Gregory Marvin & Ryan Oliveira
+# name: Gregory Marvin
 ##
 
 import tkinter as tk
