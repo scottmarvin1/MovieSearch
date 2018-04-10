@@ -1,7 +1,7 @@
 ##
 # entermovie.py
 # EnterMovie class. Sets up pop up window for selecting movie
-# name: Gregory Marvin & Ryan Oliveira
+# name: Gregory Marvin
 ##
 
 import tkinter as tk
