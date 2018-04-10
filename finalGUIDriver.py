@@ -1,6 +1,6 @@
 # finalGUIDriver.py
 # test various parts of the GUI for the final project in CIS41B
-# name : Gregory Marvin & Ryan Oliveira
+# name : Gregory Marvin
 
 import platform
 import os
