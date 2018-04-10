@@ -1,7 +1,7 @@
 ##
 # moviesearch.py
 # MovieSearch class. Sets up the main window for the application
-# name: Gregory Marvin & Ryan Oliveira
+# name: Gregory Marvin
 ##
 
 import tkinter as tk
