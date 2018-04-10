@@ -1,4 +1,4 @@
-# name: Ryan Oliveira & Gregory Marvin
+# name: Ryan Oliveira
 """
 Imported libraries
 """
