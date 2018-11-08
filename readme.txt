@@ -1,5 +1,3 @@
-names: Ryan Oliveira and Gregory Marvin
-
 Movie Search.
 *Requires omdb module for MovieData class*
 'pip install omdb' installs the necessary module
